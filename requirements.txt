@@ -1,0 +1,14 @@
+# Mini Orchestrator Py dependencies
+
+# This project currently relies only on Python standard library modules:
+# - argparse
+# - subprocess
+# - dataclasses
+# - typing
+# - datetime
+# - json
+
+# No external dependencies are required.
+
+# Recommended Python version
+python>=3.9
